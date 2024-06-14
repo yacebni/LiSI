@@ -1,0 +1,12 @@
+C:/Users/hugom/BUT 2022-2023/sae-c-bouanani-dias-mayrand/functions.h:234: warning: argument 'cod_postal_p' of command @param is not found in the argument list of ajouter_client(client *annuaire, char *nom_p, char *prenom_p, char *code_postal_p, char *ville_p, char *telephone_p, char *mel_p, char *profession_p, int i)
+C:/Users/hugom/BUT 2022-2023/sae-c-bouanani-dias-mayrand/functions.h:234: warning: The following parameters of ajouter_client(client *annuaire, char *nom_p, char *prenom_p, char *code_postal_p, char *ville_p, char *telephone_p, char *mel_p, char *profession_p, int i) are not documented:
+  parameter 'code_postal_p'
+  parameter 'telephone_p'
+C:/Users/hugom/BUT 2022-2023/sae-c-bouanani-dias-mayrand/functions.h:234: warning: found documented return type for ajouter_client that does not return anything
+C:/Users/hugom/BUT 2022-2023/sae-c-bouanani-dias-mayrand/functions.h:251: warning: found documented return type for filtrer_un_champ that does not return anything
+C:/Users/hugom/BUT 2022-2023/sae-c-bouanani-dias-mayrand/functions.h:234: warning: argument 'cod_postal_p' of command @param is not found in the argument list of ajouter_client(client *annuaire, char *nom_p, char *prenom_p, char *code_postal_p, char *ville_p, char *telephone_p, char *mel_p, char *profession_p, int i)
+C:/Users/hugom/BUT 2022-2023/sae-c-bouanani-dias-mayrand/functions.h:234: warning: The following parameters of ajouter_client(client *annuaire, char *nom_p, char *prenom_p, char *code_postal_p, char *ville_p, char *telephone_p, char *mel_p, char *profession_p, int i) are not documented:
+  parameter 'code_postal_p'
+  parameter 'telephone_p'
+C:/Users/hugom/BUT 2022-2023/sae-c-bouanani-dias-mayrand/functions.h:234: warning: found documented return type for ajouter_client that does not return anything
+C:/Users/hugom/BUT 2022-2023/sae-c-bouanani-dias-mayrand/functions.h:251: warning: found documented return type for filtrer_un_champ that does not return anything

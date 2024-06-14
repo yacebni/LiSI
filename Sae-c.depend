@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1673189442 source:c:\users\hugom\but 2022-2023\sae-c-bouanani-dias-mayrand\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1673189442 c:\users\hugom\but 2022-2023\sae-c-bouanani-dias-mayrand\functions.h
+
+1673189442 source:c:\users\hugom\but 2022-2023\sae-c-bouanani-dias-mayrand\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
