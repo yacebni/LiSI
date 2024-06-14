@@ -1,0 +1,3 @@
+/Users/yacinebouanani/Documents/BUT/BUT1/Semestre 1/LiSI/cmake-build-debug/CMakeFiles/LiSI.dir
+/Users/yacinebouanani/Documents/BUT/BUT1/Semestre 1/LiSI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yacinebouanani/Documents/BUT/BUT1/Semestre 1/LiSI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
